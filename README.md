@@ -1,5 +1,6 @@
 # AI-Assisted MRI Brain Tumor Analysis Platform
 
+An AI-powered medical web platform that allows doctors to upload MRI scans, trigger automated brain tumor analysis, and receive structured results and reports. The project focuses on backend architecture, asynchronous processing, and ML integration, showing how AI models can be safely integrated into a real clinical workflow.
 
 Figma File [here](https://www.figma.com/design/kKxmNFIIu7cl0FjhzTe1a9/Untitled?node-id=0-1&p=f&t=1owws2DaB06Czmof-0).
 Thesis Document [here](https://drive.google.com/file/d/1xVWT35rspeAGCd5cKLQFvUGfxKDB0kZ_/view?usp=sharing).
